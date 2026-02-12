@@ -1,30 +1,38 @@
 ### Hi, I'm Sri. 👋
 
-I am a Computer Science student at **Arizona State University** exploring the limits of **AI-Assisted Engineering**.
+I am a Computer Science student at **Arizona State University** blending **Cloud Engineering** with **Experimental AI Research**.
 
-I use advanced LLMs (Gemini/GPT-4) to prototype complex Deep Tech and Cloud systems that would typically take months to build. My goal is to understand how human-AI collaboration can accelerate software development in specialized fields like Neuromorphic Computing and Serverless Automation.
+I take a dual approach to building: I engineer robust serverless systems for real-world utility, while simultaneously using LLMs to prototype bleeding-edge neuromorphic concepts.
 
 ---
 
-### 🚀 AI-Generated Experiments
+### 🚀 Featured Projects
+
+#### ☁️ [The Needle Drop](https://github.com/snesan821/TheNeedleDrop)
+> *A production-grade, serverless market intelligence agent.*
+
+* **Role:** **Lead Engineer** (Sole Developer)
+* **The Architecture:** Designed and deployed a containerized microservice on **AWS Lambda** to scout for rare vinyl releases in real-time.
+* **The Tech:** Implemented **Docker** for consistent runtime environments, **DynamoDB** for idempotent state management, and **SNS** for SMS alerting.
+* **The DevOps:** Built a fully automated CI/CD pipeline using **GitHub Actions** for zero-touch deployments.
 
 #### 🧪 [BitNet-SNN Hybrid Engine](https://github.com/snesan821/bitnet-snn-research)
-> *A fully AI-generated research prototype.*
+> *A transparent experiment in AI-assisted research.*
 
-* **The Experiment:** I prompted Gemini to architect a hybrid neural network combining **BitNet b1.58 quantization** with **Spiking Neural Networks**.
-* **The Result:** The AI successfully generated a working PyTorch implementation that achieved **91.07% accuracy** on MNIST with **~89% sparsity**.
-* **My Role:** Prompt Engineering, Architecture Validation, Debugging, and Benchmarking.
-
-#### 🎵 [The Needle Drop](https://github.com/snesan821/TheNeedleDrop)
-> *An AI-generated, event-driven cloud agent.*
-
-* **The System:** A serverless vinyl scouting agent deployed on **AWS Lambda**.
-* **The Process:** Built entirely through natural language prompting, from the Python logic to the Docker containerization and CI/CD pipelines.
+* **The Goal:** I wanted to test if modern LLMs (Gemini 2.0) could successfully implement a complex **BitNet b1.58 + Spiking Neural Network** architecture from scratch.
+* **The Result:** The AI-generated code achieved **91.07% accuracy** on MNIST with **~89% sparsity**, proving the viability of using LLMs for rapid deep-tech prototyping.
+* **My Contribution:** Conceptual architecture, prompt engineering, validation, and benchmarking.
 
 ---
 
-### 🛠 Tools & Methods
-* **Core:** Python, Docker, AWS
-* **AI Workflow:** Context-aware prompting, iterative debugging with LLMs, automated documentation generation.
+### 🛠 Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Cloud Engineering** | AWS (Lambda, DynamoDB, SNS), Docker, Terraform, GitHub Actions |
+| **Languages** | Python, C++, SQL, Bash |
+| **AI / ML** | PyTorch, Spiking Neural Networks, LLM Prompt Engineering |
+
+---
 
 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN) • [Email](mailto:your_email@example.com)
