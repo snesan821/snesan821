@@ -2,7 +2,7 @@
 
 I am a Computer Science student at **Arizona State University** blending **Cloud Engineering** with **Experimental AI Research**.
 
-I take a dual approach to building: I engineer robust serverless systems for real-world utility, while simultaneously using LLMs to prototype bleeding-edge neuromorphic concepts.
+I take a dual approach to building: I engineer robust serverless systems for real-world utility, while simultaneously using LLMs to prototype bleeding-edge concepts.
 
 ---
 
